@@ -69,8 +69,8 @@ The Random Forest model far outperformed the other approaches.
 
 ## Prediction and Production 
 
-  Selected the Random Forest model for salary prediction. Obtained predictions using the model and stored the file in csv format. The prediction file is also saved here on my repository: 
- 
+  Selected the Random Forest model for salary prediction. Obtained predictions using the model and stored the file in csv format. The prediction file is also saved here on my repository: https://github.com/Davron-DS/Portfolio_SalaryPrediction/blob/main/predictions.csv
+  
  Finally analysed the feature importance method using bar plot:  
     
 
